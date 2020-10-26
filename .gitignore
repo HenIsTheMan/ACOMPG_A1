@@ -1,7 +1,6 @@
 # Directories
 .vs/
 Debug/
-Release/
 
 # Files
 *.user
